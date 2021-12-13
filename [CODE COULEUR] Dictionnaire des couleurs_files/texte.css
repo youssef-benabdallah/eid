@@ -1,0 +1,73 @@
+.arial-10-b-blanc {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.arial-10-gris {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #515151;
+}
+.arial-12-bleu-b {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: 0096FF;
+}
+.arial-30-gris {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	color: 515151;
+}
+.arial-14-gris {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: 515151;
+}
+.arial-22-gris {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	color: 515151;
+}
+.arial-12-gris-b {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: 515151;
+}
+
+.arial-12-gris {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: 515151;
+}
+.arial-14-gris-b {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: 515151;
+}
+.arial-15-gris {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: 515151;
+}
+.cadre {
+	border-right: 1px solid #DFDFDF;
+	border-bottom: 1px solid #DFDFDF;
+	border-left: 1px solid #DFDFDF;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #DFDFDF;
+
+
+}
+.cadre2 {
+	border-right: 1px solid #DFDFDF;
+	border-bottom: 1px solid #DFDFDF;
+	border-left: 1px solid #DFDFDF;
+
+}
